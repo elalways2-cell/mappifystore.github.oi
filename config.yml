@@ -1,0 +1,22 @@
+baseURL: "https://namauser.github.io/"
+title: "Website Saya"
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Halo, Saya Wacthz"
+    Content: "Selamat datang di website pribadi saya. Dibuat dengan Hugo + GitHub Pages."
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/Wacthz"
+
+menu:
+  main:
+    - identifier: "home"
+      name: "Home"
+      url: "/"
+      weight: 1
+    - identifier: "blog"
+      name: "Blog"
+      url: "/posts/"
+      weight: 2
