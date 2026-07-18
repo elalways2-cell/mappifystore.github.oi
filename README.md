@@ -1,0 +1,1 @@
+# mappifystore.github.oi
